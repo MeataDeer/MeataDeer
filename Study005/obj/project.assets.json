@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HJH-Laptop\\source\\repos\\Study005\\Study005\\Study005.csproj",
+      "projectUniqueName": "C:\\Users\\HJH-Laptop\\Documents\\GitHub\\MeataDeer\\Study005\\Study005.csproj",
       "projectName": "Study005",
-      "projectPath": "C:\\Users\\HJH-Laptop\\source\\repos\\Study005\\Study005\\Study005.csproj",
+      "projectPath": "C:\\Users\\HJH-Laptop\\Documents\\GitHub\\MeataDeer\\Study005\\Study005.csproj",
       "packagesPath": "C:\\Users\\HJH-Laptop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HJH-Laptop\\source\\repos\\Study005\\Study005\\obj\\",
+      "outputPath": "C:\\Users\\HJH-Laptop\\Documents\\GitHub\\MeataDeer\\Study005\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
